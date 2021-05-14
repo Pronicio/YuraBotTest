@@ -1,7 +1,6 @@
 const { Client, Collection, MessageEmbed  } = require('discord.js');
 
 const Config = require('./configs/config.json');
-const Snippet = require('./configs/Snippet');
 const Handler = require('./structure/Handler');
 
 class Class extends Client {
