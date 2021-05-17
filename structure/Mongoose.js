@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const { mongoKey } = require("../configs/config.json")
+const { mongoKey } = process.env['MONGO']
 const { Guild } = require("../models/index")
 
 module.exports = {

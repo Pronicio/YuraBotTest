@@ -23,7 +23,7 @@ class Class extends Client {
         try { this.launch().then(() => { console.log("• Lancement du robot réussi, connexion à Discord.."); }); }
         catch (e) { throw new Error(e); }
 
-        this.login(Config.token).then(() => { console.log("• Connexion à Discord réussi !"); });
+        this.login(process.env['TOKEN']).then(() => { console.log("• Connexion à Discord réussi !"); });
     }
 
     async launch() {

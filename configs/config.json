@@ -1,15 +1,11 @@
 {
     "BOTNAME": "Yura",
-    "token": "ODA3MzAxNDIyMDA4NzYyMzg4.YB2ACQ._ATc8-KpLzr0bcD5-zBp8Lox8ig",
-    "secret": "yQ$69ftpdqv?Ww?cLNOR8Jz9WI32a0uODt1L4Q",
     "owner": "477582590329749504",
 
     "prefix": "?",
     "url": "https://yurabot.xyz",
     "color": "RANDOM",
     "footer": "By Yura | yurabot.xyz",
-    
-    "mongoKey": "mongodb://localhost:27017/Yura",
 
     "emojis": {
         "yes": "<:check:673212026226737153>",
