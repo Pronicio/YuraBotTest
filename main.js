@@ -28,8 +28,6 @@ class Class extends Client {
 
     async launch() {
         this.config = Config;
-        this.snippet = Snippet;
-
         this.commands = new Collection();
 
         const handlers = new Handler(this);
