@@ -1,1 +1,34 @@
-{}
+{
+    "BOTNAME": "Yura",
+    "token": "TOKEN",
+    "secret": "SECRET",
+    "owner": "477582590329749504",
+    
+    "ameToken": "TOKEN",
+    "jokeToken": "TOKEN",
+    "dblApi": "TOKEN",
+
+    "prefix": "?",
+    "url": "https://yurabot.xyz",
+    "color": "RANDOM",
+    "footer": "By Yura | yurabot.xyz",
+    
+    "mongoKey": "mongodb://localhost:27017/Yura",
+
+    "emojis": {
+        "yes": "<:check:673212026226737153>",
+        "no": "<:X_:673212163837526064>",
+        "online": "<:online:721002621649027193>",
+        "idle": "<:idle:721002596541661224>",
+        "dnd": "<:dnd:721002560625967185>",
+        "offline": "<:offline:721002631924809728>",
+        "blue": "<:blue:721002646239969290>",
+        "yes-animated": "<a:yes:712662632200667266>",
+        "nop-animated": "<a:nop:712662704526983230>",
+        "loading": "<a:loading:675233191870595082>",
+        "check": "<a:check:710804044372770869>"
+    },
+
+    "yes": "<:check:673212026226737153>",
+    "no": "<:X_:673212163837526064>"
+}
